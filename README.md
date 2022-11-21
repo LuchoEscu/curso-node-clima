@@ -1,0 +1,2 @@
+#Notas :
+Actualizar .env
